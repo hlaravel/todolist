@@ -1,0 +1,19 @@
+{
+    "name": "hlaravel/todolist",
+    "description": "test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hlaravel\\Todolist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hlaravel",
+            "email": "hlaravel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
